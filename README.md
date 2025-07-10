@@ -49,12 +49,12 @@ No code was used — this dashboard was built entirely in Power BI using drag-an
 
 ## 🙋‍♂️ About Me
 
-I’m **Param Dubey**, an engineering student with a strong interest in data analysis and dashboard design.  
+I’m **Param Dubey**, an engineering student with a strong interest in data analysis, data science and dashboard design.  
 I use Power BI, Excel, and Python to transform data into interactive, insightful visuals.
 
 I’m currently open to **internship, freelancing**, and **project collaboration opportunities** in the field of data analytics.
 
-📬 [LinkedIn](https://www.linkedin.com/in/param-dubey-408bb9343/) • 🌐 [Portfolio Website](add link once live) • 📧 [Email](param.dubey933@gmail.com)
+📬 [LinkedIn](https://www.linkedin.com/in/param-dubey-408bb9343/) • 🌐 [Portfolio Website]( will be live soon) • 📧 [Email](param.dubey933@gmail.com)
 
 ---
 
